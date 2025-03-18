@@ -1,5 +1,5 @@
 <h1>
-  <a href="https://akshat0502.github.io/Drag&Drop/">Drag & Drop</a>
+  <a href="https://akshat0502.github.io/DragAndDrop/">Drag & Drop</a>
 </h1>
 <br>
 <p>
