@@ -12,5 +12,5 @@
 <ol>
   <li><b>index.html: </b>Contains the HTML structure for draggable items and drop zones.</li>
   <li><b>style.css: </b>Styles the layout and visual effects.</li>
-  <li><b>Internal js: </b>Contains JavaScript to handle drag and drop events.</li>
+  <li><b>script.js: </b>Contains JavaScript to handle drag and drop events.</li>
 </ol>
